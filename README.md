@@ -8,6 +8,13 @@ VS Code.
 The notebooks are added here as the course book publishes them. Each one is
 explained in the book: <https://itom6265-database-design.netlify.app/>.
 
+| Notebook | Open |
+|---|---|
+| `csv_to_mysql_python.ipynb`: load a CSV file into MySQL with pandas | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kartechbabu/MySQL_notebooks/blob/main/csv_to_mysql_python.ipynb) |
+| `csv_to_mysql_r.ipynb`: the same with readr, DBI and RMariaDB | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kartechbabu/MySQL_notebooks/blob/main/csv_to_mysql_r.ipynb) |
+
+In Colab, use **File → Save a copy in Drive** to keep your own editable copy.
+
 ## Data
 
 `data/` holds the sample files the notebooks read:
