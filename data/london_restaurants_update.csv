@@ -1,0 +1,7 @@
+name,city,address,longitude,latitude,average_cost,price_range,aggregate_rating,votes
+Gymkhana,London,"42 Albemarle Street, Mayfair, London W1S 4JH",-0.141645,51.508515,80,4,4.7,230
+Roti Chai,London,"3 Portman Mews South, Marble Arch, London W1H 6HS",-0.155732,51.514641,45,3,4.5,367
+Shake Shack,London,"24 Market Building, The Piazza, Covent Garden, London WC2E 8RD",-0.12262,51.511682,30,2,4.1,473
+Dishoom,London,"12 Upper St Martin's Lane, Covent Garden, London WC2H 9FB",-0.127164,51.512417,35,2,4.7,964
+Jamie's Italian,London,"11 Upper St Martin's Lane, Covent Garden, London WC2H 9FB",-0.126963,51.51259,50,3,4.3,271
+Bone Daddies,London,"31 St. Peter Street, Soho, London W1F 0AR",-0.133789,51.512627,40,3,4.6,418

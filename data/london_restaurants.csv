@@ -1,0 +1,16 @@
+name,city,address,longitude,latitude,average_cost,price_range,aggregate_rating,votes
+Gymkhana,London,"42 Albemarle Street, Mayfair, London W1S 4JH",-0.141645,51.508515,80,4,4.7,214
+Bocca Di Lupo,London,"12 Archer Street, Soho, London W1D 7BB",-0.133947,51.511629,45,3,4.5,571
+Flat Iron,London,"17 Beak Street, Soho, London W1F 9RW",-0.138343,51.512069,35,2,4.9,309
+Duck & Waffle,London,"Heron Tower, 110 Bishopsgate, City of London, London EC2N 4AY",-0.080963,51.516284,55,3,4.9,706
+Dishoom,London,"7 Boundary Street, Shoreditch, London E2 7JE",-0.076580556,51.52453611,55,3,4.5,305
+Yauatcha,London,"15-17 Broadwick Street, Soho, London W1F 0DL",-0.135229,51.513739,90,4,4.7,1326
+Roka,London,"37 Charlotte Street, Fitzrovia, London W1T 1RR",-0.135524,51.518935,60,3,4.6,436
+Restaurant Gordon Ramsay,London,"68 Royal Hospital Road, Chelsea, London SW3 4HP",-0.162092,51.485509,230,4,4.7,320
+sketch Gallery,London,"sketch, 9 Conduit Street, Mayfair, London W1S 2XG",-0.141557,51.512669,100,4,4.5,148
+Masala Zone,London,"48 Floral Street, Covent Garden, London WC2E 9DA",-0.123132,51.513196,30,2,4.1,316
+The Breakfast Club,London,"33 D'Arblay Street, Soho, London W1F 8EU",-0.135463889,51.51481111,40,3,4.5,313
+Bao,London,"53 Lexington Street, Soho, London W1F 9AS",-0.136576,51.513225,20,2,4.9,161
+Five Guys,London,"1-3 Long Acre, Covent Garden, London WC2E 9LH",-0.126324,51.512085,30,2,3.8,400
+Hakkasan,London,"17 Bruton Street, Mayfair, London W1J 6QB",-0.144861,51.510342,120,4,4.8,395
+Nobu,London,"15 Berkeley Street, Mayfair, London W1J 8DY",-0.143259,51.508811,100,4,4.4,311
